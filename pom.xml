@@ -78,7 +78,7 @@
 				</executions>
 				<configuration>
 					<username>dlpkmr98</username>
-					<password>H@me123456</password>
+					<password>&&&&&</password>
 					<repository>dlpkmr98/${project.artifactId}</repository>
 					<tag>${project.version}</tag>
 					<buildArgs>
