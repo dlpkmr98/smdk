@@ -1,0 +1,7 @@
+,------.   ,--.    ,------.  
+|  .-.  \  |  |    |  .--. ' 
+|  |  \  : |  |    |  '--' | 
+|  '--'  / |  '--. |  | --'  
+`-------'  `-----' `--'
+ 
+${AnsiColor.BRIGHT_RED}:: Running Spring Boot ${spring-boot.version} ::${AnsiStyle.NORMAL}
